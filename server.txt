@@ -1,0 +1,4 @@
+#group_name(owner_name), channel_name, server_name
+#Export Test, kimdongmin2, SERVER_TEST!!
+ROOT_GROUP, kimdongmin2, TESTEST1
+ROOT_GROUP1, kimdongmin5, TESTEST2

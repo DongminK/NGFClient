@@ -1,0 +1,4 @@
+# agent_name, agent_ip, agent_port
+kimdongmin1, 192.168.112.41, 40
+kimdongmin2, 123.345.234.24, 40
+kimdongmin3, 123.345.234.23, 40

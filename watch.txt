@@ -1,0 +1,2 @@
+#server_name(owner_name), channel_name, watch_name, watch_type
+TESTEST1, kimdongmin2, WatchName, OS
